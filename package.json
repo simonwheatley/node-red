@@ -1,0 +1,15 @@
+{
+  "name": "simonwheatley-nodered",
+  "version": "1.0.0",
+  "description": "Node red stuff, innit?",
+  "main": "settings.js",
+  "dependencies": {
+    "node-red-contrib-googlechart": "^0.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
